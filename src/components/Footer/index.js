@@ -12,7 +12,7 @@ const FooterContainer = styled.div`
 `;
 
 
-const FooterWrapper = styled.footer`
+const FooterWrapper = styled.footer`'
   width: 100%;
   max-width: 1200px;
   display: flex;
